@@ -39,7 +39,7 @@ The ELISA analyzer takes as an **input an Excel file ("ELISA Tamplet.xlsx")**, i
 6. Sample dilution factors.
 7. Std curve details: including model parameter values, goodness of fit (R^2), and standard curve images.    
 
-## **Files include in the current repository** 
+## **Files included in the current repository** 
 1. ReadMe file.
 2. Program Jupyter notebook.
 3. "ELISA Tamplet.xlsx " file (including example OD values for 3 plates).
