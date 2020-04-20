@@ -5,7 +5,7 @@ The enzyme-linked immunosorbent assay (ELISA) is quantitative method for measuri
 The method involves loading liquid samples in plate wells that specifically bind a target factor (usually a protein), followed by adding a colorimetric compound that produces a detectable signal, which is proportional to the concentration of the target protein. 
 To render the method quantitative (i.e. allowing determine the exact concentration of proteins in the test samples), a standard curve is used in each assay. The standard curve consist of a serial diluted samples that contain known concentrations of the target protein. The Optical Density (OD; the measured color intensity) and the know concentrations are used for building a standard-curve (std curve) of OD signal as a function of sample concentration. This standard curve is then used to interpolate the concentration of the tested samples. 
 
-Due to the nature of biological reactions and the method used for measuring the OD, which have lower sensitivity at higher protein concentrations, a **4 Parameter Logistic (4PL) model** is used for generating the standard curves, to accurately determining the concentration in the test samples. 
+Due to the nature of biological reactions and the method used for measuring the OD, which have lower sensitivity at higher protein concentrations, a **4 Parameter Logistic (4PL) model** is used for generating the standard curves, to accurately determine the concentration in the test samples. 
 
 ## **ELISA Analyzer Description** 
 ELISA results in research laboratories are usually analyzed manually, which is a time consuming and error prone procedure. In the current project, an automatic ELISA analyzer was established to improve the accuracy and reproducibility of ELISA results. 
